@@ -1,0 +1,3 @@
+A slow HTTP client, similar to Slow Loris. This is super minimal and lacking in
+features compared to the real Slow Loris implementation (which is way better
+than this one). And the code is terrible.
